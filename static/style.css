@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=El+Messiri&display=swap');
+
+/* All colors used in the website */
+:root {
+  --c1: #494947;
+  --c2: #F0F3F3;
+  --c3: #3891A6;
+  --c4: #ABB557;
+  --c5: #F05D5E;
+  --c6: #C5CFCF;
+}
+
+body {
+  background-color: var(--c2);
+  color: var(--c1);
+  font-family: 'El Messiri', ;
+  padding-left:30px;
+  padding-top:  10px;
+}
+
+.books {
+  border-style: dashed;
+}
+.font-header {
+  font-size: 50px;
+}
+
+.font-small {
+  font-size: 25px;
+}
