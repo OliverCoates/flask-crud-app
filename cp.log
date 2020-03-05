@@ -1,10 +1,10 @@
 INFO: Platform: win32
 INFO: Version Info: v0.3.0
 DEBUG: Log Path: cp.log
-DEBUG: command: ['python', 'H:\\SQL\\flask-crud-app\\bookmanager.py']
+DEBUG: command: ['python', 'H:\\SQL\\flask-crud-app\\test.py']
 DEBUG: pause: True
+DEBUG: args: ['H:\\SQL\\flask-crud-app\\test.py']
 DEBUG: file: None
-DEBUG: args: ['H:\\SQL\\flask-crud-app\\bookmanager.py']
 DEBUG: repl: python
-INFO: return code: 1 (0x1)
-INFO: elapsed time: 0.102192
+INFO: return code: 0 (0x0)
+INFO: elapsed time: 0.098698
